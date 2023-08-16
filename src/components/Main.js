@@ -13,10 +13,20 @@ export default function Main() {
         <section id="Home" className="home-section-section">
           <div className="home-section">
             <figure className="web3-mobile">
-              <img src={web3imageMobile} width="686" height="600"></img>
+              <img
+                src={web3imageMobile}
+                width="686"
+                height="600"
+                alt="Home-Image"
+              ></img>
             </figure>
             <figure className="web3-desktop">
-              <img src={web3ImageDesktop} width="1460" height="600"></img>
+              <img
+                src={web3ImageDesktop}
+                width="1460"
+                height="600"
+                alt="Home-Image"
+              ></img>
             </figure>
             <div className="home-text-content">
               <h1>The Bright Future of Web 3.0?</h1>

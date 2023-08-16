@@ -44,10 +44,10 @@ export default function Navbar() {
             <a href="#Popular">Popular</a>
           </li>
           <li>
-            <a>Trending</a>
+            <a href="#Home">Trending</a>
           </li>
           <li>
-            <a>Categories</a>
+            <a href="#Home">Categories</a>
           </li>
         </ul>
       </div>
